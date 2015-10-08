@@ -1,0 +1,22 @@
+{
+  "name": "halyard-golang",
+  "version": "0.0.3",
+  "author": "Les Aker",
+  "license": "MIT",
+  "summary": "Configure golang via Boxen",
+  "source": "https://github.com/halyard/puppet-golang",
+  "project_page": "https://github.com/halyard/puppet-golang",
+  "issues_url": "https://github.com/halyard/puppet-golang/issues",
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Darwin",
+      "operatingsystemmajrelease": [
+        "14",
+        "15"
+      ]
+    }
+  ]
+}
